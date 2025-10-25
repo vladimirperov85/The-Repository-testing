@@ -1,1 +1,3 @@
-ÐSecond file text
+ï¿½Second file text
+
+Changes made in the main branch
